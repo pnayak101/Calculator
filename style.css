@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide'); 
 .container{
     text-align: center;
     margin-top: 27px;
@@ -20,6 +21,7 @@ button{
 }
 h1{
     font-size:4em;
+    font-family: "Audiowide", sans-serif;
 }
 .calculator{
     padding: 20px;
